@@ -1,6 +1,6 @@
 ## CAI-RN <img src="https://raw.githubusercontent.com/cai-rn/cairn-dev/master/img/inst-cnrs.png" width='70px' align="right"/><img src="https://raw.githubusercontent.com/cai-rn/cairn-dev/master/img/inst-cnrs-miti-cairn.jpg" width='130px' align="right"/>
 
-### Présentation
+### Présentation de CAIRN
 
 `<fr>`
 Le **réseau CAI-RN archéométrie** (*Compétences Archéométriques Interdisciplinaires – Réseau National*) pérennise une structuration inter-institutionnelle, interdisciplinaire et inter-catégorielle de communautés qui s’exprimaient jusqu’alors collectivement mais séparément via un certain nombre d’actions scientifiques et/ou structurantes (GdR, GdRE, GdRI, RTP …) ou d’actions non institutionnelles (associations professionnelles comme le GMPCA, sociétés savantes …). Il permettra par ailleurs de renforcer les actions de coopération et de partenariat CNRS/Universités, EPST, EPIC ([lire la suite ...](https://archeometrie.cnrs.fr/le-reseau-cai-rn/presentation/)).
